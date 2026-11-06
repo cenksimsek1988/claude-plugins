@@ -2,6 +2,12 @@
 
 All notable changes to the `cenk` catalog. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Every change gets an entry here and a new `version` in `.claude-plugin/marketplace.json`. Plugin versions are not kept here: each plugin has its own in its `plugin.json`.
 
+## [0.2.0] - 2026-11-06
+
+### Added
+
+- cenk-jobs, from `cenksimsek1988/cenk-jobs`, folder `plugins/cenk-jobs`, on the day that repository went public.
+
 ## [0.1.0] - 2026-11-06
 
 ### Added

@@ -5,6 +5,7 @@ The plugin catalog (marketplace) `cenk`. Every plugin here is named `cenk-<purpo
 | Plugin | What it does |
 |---|---|
 | [cenk-overtime](https://github.com/cenksimsek1988/cenk-overtime) | Helps employees who worked unpaid overtime or extra shifts prepare their claim for a lawyer: their out-of-hours work counted from their own records, and an evidence report for the lawyer to check. Not legal advice. |
+| [cenk-jobs](https://github.com/cenksimsek1988/cenk-jobs) | Your job search with Claude: finds and screens postings under your own employer rules, writes CVs and letters from your own facts, applies after your go-ahead, and tracks applications, interviews and prep on one private dashboard. |
 
 Only public plugins are listed. A private plugin is shared from its own repository with invited people; see its README.
 
@@ -15,6 +16,7 @@ In the Claude desktop app (Code tab) or a `claude` terminal session:
 ```
 /plugin marketplace add https://github.com/cenksimsek1988/claude-plugins.git
 /plugin install cenk-overtime@cenk
+/plugin install cenk-jobs@cenk
 ```
 
 From a terminal, without a session:
@@ -24,6 +26,9 @@ claude plugin marketplace add https://github.com/cenksimsek1988/claude-plugins.g
 ```
 ```bash
 claude plugin install cenk-overtime@cenk
+```
+```bash
+claude plugin install cenk-jobs@cenk
 ```
 
 - Write the addresses with `https://`: the short form `cenksimsek1988/claude-plugins` clones over SSH when a GitHub SSH key is found, and an install from `/plugin` in a session does not fall back to HTTPS.

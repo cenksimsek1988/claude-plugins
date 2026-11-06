@@ -20,7 +20,7 @@ The public plugin catalog `cenk`: `.claude-plugin/marketplace.json`, which lists
 
 ## Waiting
 
-- cenk-jobs: add on the day `cenksimsek1988/claude-job-search` is public (its public release, Job search coordinator). Entry source: `{"source": "git-subdir", "url": "https://github.com/cenksimsek1988/claude-job-search.git", "path": "plugins/cenk-jobs"}`; copy description, keywords and category from its `plugins/cenk-jobs/.claude-plugin/plugin.json` and its catalog entry. Tested from a throwaway config on 6 Nov 2026 with Cenk's git login.
+- Nothing. cenk-jobs was added on 6 Nov 2026 (catalog 0.2.0), the day `cenksimsek1988/cenk-jobs` went public; its folder is `plugins/cenk-jobs`.
 
 ## Every change
 
