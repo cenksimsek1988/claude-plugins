@@ -1,0 +1,27 @@
+{
+  "name": "cenk",
+  "description": "Cenk Simsek's public Claude Code plugins. Every plugin is named cenk-<purpose> and installs on its own: take only the one you need.",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Cenk Simsek",
+    "email": "35446555+cenksimsek1988@users.noreply.github.com",
+    "url": "https://github.com/cenksimsek1988"
+  },
+  "plugins": [
+    {
+      "name": "cenk-overtime",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/cenksimsek1988/cenk-overtime.git",
+        "path": "cenk-overtime"
+      },
+      "description": "Helps employees who worked unpaid overtime or extra shifts prepare their claim for a lawyer: a case folder in your own Google Drive, your out-of-hours work counted from your own records (email, chat, calls, calendar, git), weekday and weekend apart, and an evidence report for your lawyer to check. Runs in Claude Code on your computer. Not legal advice.",
+      "author": { "name": "Cenk Simsek" },
+      "homepage": "https://github.com/cenksimsek1988/cenk-overtime",
+      "repository": "https://github.com/cenksimsek1988/cenk-overtime",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["overtime", "unpaid overtime", "extra shifts", "extra hours", "overtime claim", "wage claim", "employment lawsuit", "labour court", "evidence", "timesheet", "fazla mesai", "fazla mesai alacağı", "işçi alacağı davası", "straordinari non pagati", "causa di lavoro", "Überstunden", "Überstundenvergütung", "horas extra", "heures supplémentaires"]
+    }
+  ]
+}
