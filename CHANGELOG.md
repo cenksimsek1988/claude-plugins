@@ -2,6 +2,13 @@
 
 All notable changes to the `cenk` catalog. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Every change gets an entry here and a new `version` in `.claude-plugin/marketplace.json`. Plugin versions are not kept here: each plugin has its own in its `plugin.json`.
 
+## [0.2.1] - 2026-11-07
+
+### Changed
+
+- cenk-jobs' description: it applies on its own whenever the person's records answer every question (its
+  0.15.0), no longer "after your go-ahead".
+
 ## [0.2.0] - 2026-11-06
 
 ### Added

@@ -1,7 +1,7 @@
 {
   "name": "cenk",
   "description": "Cenk Simsek's public Claude Code plugins. Every plugin is named cenk-<purpose> and installs on its own: take only the one you need.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "owner": {
     "name": "Cenk Simsek",
     "email": "35446555+cenksimsek1988@users.noreply.github.com",
@@ -30,7 +30,7 @@
         "url": "https://github.com/cenksimsek1988/cenk-jobs.git",
         "path": "plugins/cenk-jobs"
       },
-      "description": "Your job search with Claude: finds and screens job postings under your own employer rules, writes CVs and cover letters from your own facts, applies in your own Chrome after your go-ahead, tracks every application, puts interviews and deadlines in Google Calendar, and prepares each hiring step. Your data stays in your Google Drive.",
+      "description": "Your job search with Claude: finds and screens job postings under your own employer rules, writes CVs and cover letters from your own facts, applies in your own Chrome on its own whenever your records answer every question, tracks every application, puts interviews and deadlines in Google Calendar, and prepares each hiring step. Your data stays in your Google Drive.",
       "author": { "name": "Cenk Simsek" },
       "homepage": "https://github.com/cenksimsek1988/cenk-jobs",
       "repository": "https://github.com/cenksimsek1988/cenk-jobs",

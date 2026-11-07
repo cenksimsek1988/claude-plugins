@@ -5,7 +5,7 @@ The plugin catalog (marketplace) `cenk`. Every plugin here is named `cenk-<purpo
 | Plugin | What it does |
 |---|---|
 | [cenk-overtime](https://github.com/cenksimsek1988/cenk-overtime) | Helps employees who worked unpaid overtime or extra shifts prepare their claim for a lawyer: their out-of-hours work counted from their own records, and an evidence report for the lawyer to check. Not legal advice. |
-| [cenk-jobs](https://github.com/cenksimsek1988/cenk-jobs) | Your job search with Claude: finds and screens postings under your own employer rules, writes CVs and letters from your own facts, applies after your go-ahead, and tracks applications, interviews and prep on one private dashboard. |
+| [cenk-jobs](https://github.com/cenksimsek1988/cenk-jobs) | Your job search with Claude: finds and screens postings under your own employer rules, writes CVs and letters from your own facts, applies on its own whenever your records answer every question, and tracks applications, interviews and prep on one private dashboard. |
 
 Only public plugins are listed. A private plugin is shared from its own repository with invited people; see its README.
 
